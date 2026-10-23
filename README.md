@@ -3,7 +3,7 @@
 Six weekly tasks completed during the **Virtual Data Science with Python Trainee Internship**
 at **YuvaIntern (Henry Harvin Education)**.
 
-**Author:** Prabhat Singh · B.Tech 4th Year, Computer Science & Engineering
+**Author:** Nandani Singh · B.Tech 4th Year, Computer Science & Engineering
 
 ## Projects
 
